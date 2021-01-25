@@ -2,7 +2,14 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "do_objectID": "5FAE42FE-640C-48DD-A02D-C6A674C78818",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -14,22 +21,803 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "5299f7f0-5f1b-11eb-a557-47a50aea03bd",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "05ED401D-3CD1-4F32-B349-E2E1A7E532FA",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "099969F6-AFEF-4FE8-B5BC-71314CDDA328",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-LIGHT.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0D90DDA0-DDD3-4E56-B39F-3EECAD62695A",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-THINITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1FCAEA60-61CA-41E0-9736-560833725179",
+      "fontFamilyName": "Karla",
+      "fontFileName": "Karla-Italic-VariableFont_wght.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Karla-Italic",
+        "Karla-Italic_Bold-Italic",
+        "Karla-Italic_ExtraBold-Italic",
+        "Karla-Italic_ExtraLight-Italic",
+        "Karla-Italic_Light-Italic",
+        "Karla-Italic_Medium-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2D0D16A6-5C8A-4D61-BCA3-7F45403626F7",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-BOLDITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2EEC3189-FB40-4A92-8EC0-CC54357B5493",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-BLACKITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3370BDB5-3EB4-4131-A494-AB1FD466D1B9",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4303741A-EE98-4DB0-BECF-F1E699BBFDCF",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-ExtraBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "54ED0600-E674-4519-BBA7-D4631B05F1C9",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Light.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "68493044-5423-497C-8823-32526DDB922A",
+      "fontFamilyName": "Karla",
+      "fontFileName": "Karla-VariableFont_wght.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Karla-Regular",
+        "Karla-Regular_Bold",
+        "Karla-Regular_ExtraBold",
+        "Karla-Regular_ExtraLight",
+        "Karla-Regular_Light",
+        "Karla-Regular_Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "82A2AF65-6E64-49EB-974B-534270CC4E62",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-THIN.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8A92990C-C59D-421C-8512-3B0E7A2778A4",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8C819569-80CA-4C19-8090-44ADA02A2285",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-REGULARITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-RegularItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8DF999D1-C633-49B0-95DA-354ACCBC1915",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "978BD1E4-74CF-4396-A10D-5D93A6E0EEAF",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-REGULAR.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlexRegular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "99DFA810-F3F6-4A1E-93CA-9AD3BFA776A5",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A5F9CCA1-4B3A-4223-9F47-AFA86A5B5F46",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ABE22A93-2DB0-48DD-94D9-D5A475824B14",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-LIGHTITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B1682B17-1E18-476F-ABB6-44B876FF26A1",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-MEDIUM.otf",
+      "options": 2,
+      "postscriptNames": [
+        "RFlex-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B4166F77-16EF-4DFC-926C-54BCBBBC2EC3",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CA845B41-E147-4E6A-A922-50B3593DE4C5",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-SemiBold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CBCCB7FC-14A5-4E91-A085-DC5343C66293",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-Flex-MEDIUMITALIC.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D0A30B8F-666C-46E1-B395-A8DE52FE6A36",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D218EB0A-E30E-49A0-AB17-401869857C9A",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-BOLD.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D2EFD404-B7B6-4800-A5F5-9EA79F7D1E83",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-Medium.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Rubik-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DD6E6AF4-C2EC-4EA9-BDCF-5873F104EEF8",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-ExtraBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E438801B-78E5-4908-9F76-0D91C76B6811",
+      "fontFamilyName": "R-Flex",
+      "fontFileName": "R-FLEX-BLACK.otf",
+      "options": 0,
+      "postscriptNames": [
+        "RFlex-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E7A5C2FF-DEF0-4785-ADA6-5E010BE3925F",
+      "fontFamilyName": "Rubik",
+      "fontFileName": "Rubik-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Rubik-SemiBoldItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "D0C7434C-3B7C-4C7C-B87A-A2A0C8D19CEE",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "DEDC5305-C5C6-4345-BCEF-EFF389D048DD",
+        "name": "Fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "5504B8E4-93C5-4543-8F15-FCC52873A7C8",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "33323A9B-A7D4-4B8D-8757-0AA9C4AF6BA3",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "DDFC659C-04DC-44E2-B70F-406E539F6FCA",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AF02C466-0337-464D-B46C-DBB3FEBF5AF0",
+        "name": "Opacity fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.4399999976158142
+          },
+          "do_objectID": "C255982F-1600-494A-9187-03902AFA9E72",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "BC0123C1-6C4E-4E54-AEBF-C6EE5AA5A470",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "D2675EA3-7F7C-4A71-9676-0152796FF142",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "60613ADF-CC8F-4D62-8B96-D016012660EE",
+        "name": "Fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "9ACF47B9-76E9-4926-AEC5-82E16817DDFC",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "228E6728-7C64-497F-88F5-ECFE5D715F0D",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "C47A07B5-94FC-45E7-AD9F-730090A08EF7",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "CA803D1B-8A7D-4F5B-ACA5-0D516ECA06C3",
+        "name": "Opacity fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.3
+          },
+          "do_objectID": "9C0B3A05-67E1-4BB5-A4A3-7078C9AEFD0F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F56327DD-E713-47B7-B52A-0AEAC5B5473D",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSwatches": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "7DA5D2DE-5D00-11EB-A557-4CA70ACB7AD0",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "70.3.0",
-    "build": 43514,
-    "version": 93
+    "appVersion": "70.3",
+    "build": 109109,
+    "version": 134
   },
   "pages": [
-    "Page 1"
-  ]
+    "Page 1",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "6BA9D6DE-5D00-11EB-A557-4CA70ACB74DC",
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "EDBD8953-3A09-4E87-BEB8-7031413AF575",
+        "name": "6DFFED",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9300807767367374,
+          "green": 1,
+          "red": 0.4282452839176829
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "AC501343-F025-4AB2-972A-DE06F75C8068",
+        "name": "635BFF",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.3568627450980392,
+          "red": 0.3882352941176471
+        }
+      }
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
