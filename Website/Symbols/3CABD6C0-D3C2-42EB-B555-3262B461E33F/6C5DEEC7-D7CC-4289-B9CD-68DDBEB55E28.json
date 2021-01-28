@@ -17,7 +17,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 54,
+    "height": 51,
     "width": 175,
     "x": 0,
     "y": 0
@@ -113,7 +113,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.1964649018787202
+      "opacity": 0.2040957496279762
     },
     "do_objectID": "2E91E427-0819-4BAC-A59E-027D29A0FD9F",
     "endMarkerType": 0,

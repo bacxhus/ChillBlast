@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Karla-Regular_Light",
+              "name": "Moderat-Trial-Light",
               "size": 16
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 31,
+    "width": 32,
     "x": 72,
-    "y": 17
+    "y": 15
   },
-  "glyphBounds": "{{0, 5}, {30, 11}}",
+  "glyphBounds": "{{0, 4}, {31, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,7 +128,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Karla-Regular_Light",
+            "name": "Moderat-Trial-Light",
             "size": 16
           }
         },

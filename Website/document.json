@@ -29,12 +29,42 @@
   "fontReferences": [
     {
       "_class": "fontReference",
+      "do_objectID": "042338F7-38C8-4BBD-81D4-D1E4A2766758",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39521.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "04DD4E57-5E0E-4607-B5F0-1C5E55DAEC7E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Semibold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "05ED401D-3CD1-4F32-B349-E2E1A7E532FA",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Bold.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "087915E7-6DFB-422B-9FF0-9353332D444E",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-ExtraLight"
       ]
     },
     {
@@ -49,12 +79,122 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "0A998B92-4D16-43FE-9CF5-705CAE16F170",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-It"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0C9E4A9C-BCAC-4407-B5BF-201340B26563",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Bold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Moderat-Trial-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "0D90DDA0-DDD3-4E56-B39F-3EECAD62695A",
       "fontFamilyName": "R-Flex",
       "fontFileName": "R-FLEX-THINITALIC.otf",
       "options": 0,
       "postscriptNames": [
         "RFlex-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "0E5164CC-3C14-4D5E-8348-4ABDCD4F29EB",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1048E1CB-B18B-4610-87AA-1069DE59ADCA",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "10FD5D8B-9472-4120-8E0C-2F8AA48AE0DD",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "117CC973-6694-4411-8723-7CDEADC06F1B",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45794.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "11F58EA6-AB74-4973-8304-224168F29F5F",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1752E034-A5A8-432C-B8B4-1B1E610B7B67",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45781.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Ultra"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "18E5F791-3E14-4761-AAEA-D63D97E15105",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39518.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1CB450A9-111E-42AD-8349-77C634F6E5AF",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Medium-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Medium-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "1CEB2C4E-5762-40E3-B922-BC17106F14DD",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39526.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-UltraLight"
       ]
     },
     {
@@ -70,6 +210,36 @@
         "Karla-Italic_ExtraLight-Italic",
         "Karla-Italic_Light-Italic",
         "Karla-Italic_Medium-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "20E886B1-9BFC-49B8-8471-0FF918E99A1F",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "221CA07F-BAD5-4F89-99D9-A65A1751C722",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Light-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Light-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "24672CF8-1BDB-4A85-ACCD-05B33384A768",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Medium"
       ]
     },
     {
@@ -94,12 +264,172 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "2F023BAE-69E0-4178-8B7D-AC21B3363A47",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "31379AA9-3672-476E-938A-28D159B83833",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Regular-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Regular-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "31800836-E5FF-4BBB-9421-8B31E2EC8EC3",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "3370BDB5-3EB4-4131-A494-AB1FD466D1B9",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Black.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "338927A1-2F64-494A-95AF-7BE934617268",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "346C991C-43BC-41F6-B531-15A5FCC52A8A",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45790.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "351EE73E-3B1E-4D0D-B472-A8CFDFC5B0A9",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-XLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "359356FF-8F97-4FF8-866D-DABB3596B4F5",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "36A7EBBC-B2BD-402E-B936-91DE45DB26CF",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "37EE5E7B-C2FB-482A-AA32-833FCDDBFA12",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45788.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "393860DD-4FEF-4B1B-8705-1BE131720410",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-ExtraLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "394E6669-2BBA-4F57-9E38-568500E41481",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN Alternate",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-RegularAlternate"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3A143362-C195-4B1A-B2D4-AABAD6078C32",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Bold-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Bold-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3C4A221D-FDD6-462F-99A7-28E1E8C6848D",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3E43B143-E5C7-452B-941A-9BCC132F4D36",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-UltraItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3EC78F7E-593E-444E-AF4A-F04A446ADFDF",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Light-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Light-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "40A16084-6E1E-43A8-B2F2-1971FEEFDC1A",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Black"
       ]
     },
     {
@@ -114,12 +444,282 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "462C3E61-2243-4260-B8E2-01010EE23E99",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 2,
+      "postscriptNames": [
+        "Gotham-Book"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4662E309-7141-4E01-B109-8D1556AA39C1",
+      "fontFamilyName": "Gilroy",
+      "fontFileName": "Radomir Tinkov - Gilroy-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gilroy-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "46D2E417-E53F-4859-957B-2B972B01D0D5",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4917916F-B2E4-4F45-B665-FF24D4D196A3",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39523.otf",
+      "options": 2,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4B1F4BFD-63CA-4A7B-8379-6DCACF63B79E",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39516.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4C796F78-648B-4962-AD5A-DDE649740782",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4D008778-EFE8-4E41-AC57-53A61DB7808F",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Black-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Black-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4F01B3B4-9C43-4587-A699-F9B301CA6E79",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "52F32D6B-72DA-412B-8286-E4782296EF4C",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45783.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "536F7052-A85D-47F0-9521-FB4DCA859DFC",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Light-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Light-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "54ED0600-E674-4519-BBA7-D4631B05F1C9",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Light.ttf",
       "options": 2,
       "postscriptNames": [
         "Rubik-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5554623B-59C4-4694-B17B-C25E496EC5CD",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "56523B51-4F24-4715-A0E2-AD0B0B568AFC",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "56B7A3C6-4B6C-45DA-B05D-66E219D4BA31",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-XLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "57722CF8-67F9-4B48-A988-BB30C27321B4",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN",
+      "options": 2,
+      "postscriptNames": [
+        "DIN-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "57D3C03A-509D-49E7-B1D0-B4EB33D7321B",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "59999D16-2C4E-415F-9D71-A55E225810FB",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5B0B1F0A-C7BC-4E44-AE4E-53AE050CD3EB",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Medium-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Medium-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5BAA2FE4-83AB-4E18-90E2-0A8286D539F6",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-It"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5E01027A-5B3C-4B6D-B00F-9534A23B2B7B",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5E1AC3E5-3692-4A00-B653-6A25A6FB7AED",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39520.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5FF9798D-28E2-4A7E-9F32-68D8F0FAADC3",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "612A4D98-9290-43FB-A83A-C4E925C70D15",
+      "fontFamilyName": "Helvetica Now Display",
+      "fontFileName": "HelveticaNowDisplayXBlk.otf",
+      "options": 0,
+      "postscriptNames": [
+        "HelveticaNowDisplay-XBlk"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6257D6B4-AD08-48ED-89DB-A7F2FC7191EF",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Regular-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Regular-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "653E440F-8188-4486-88F1-7C2DACCA8079",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "65A6AFAF-DC57-430F-9218-574CBCC530F9",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "660A6CA5-0A50-48B1-9E7F-C644A597AE95",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39517.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-HeavyIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "666AE0AC-99E8-40B3-881F-8F9FF76D3A68",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Thin-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Thin-Italic"
       ]
     },
     {
@@ -139,6 +739,166 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "691CAEC4-8C4D-4A44-BB3D-61AD481B7272",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN Alternate",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-MediumAlternate"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6B89FEA8-4134-434B-9C27-B6CDE5F33675",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6B9291B6-5B03-4BBE-AFC6-2B7A956D65D2",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6D66CBAC-F614-4588-844B-3D9E68B00116",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6E80C56F-A4DF-4788-BF24-322DAEDAD61F",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6FCD29B9-4283-453D-AB43-281B2AD31231",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Regular.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "SourceSansPro-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "70509F47-4500-4873-88D5-1191B6203B12",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Light.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Moderat-Trial-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "739FC19C-5292-40A2-ADB2-F91B2DE4DF5E",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "73E0AE87-E91F-4756-9D94-EE1B303AE1B2",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "740B3CBF-B257-4DE4-91E4-8C1E0C4354A9",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45791.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "76E928F5-2699-4FE0-860D-E7D73B294DC7",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Ultra"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "78B3B87E-ACBD-4369-9DC7-BBF786228B02",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN Alternate",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-BlackAlternate"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7C8D50C1-6FB0-47E0-8E1E-9E838A97CDA9",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7CF80CAE-501D-4D3F-B226-4A5641BDFC35",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7F795895-6EE9-420B-AD7C-2748D1BDA7B3",
+      "fontFamilyName": "Gilroy",
+      "fontFileName": "Radomir Tinkov - Gilroy-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Gilroy-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "80FD6BCA-FA7D-4743-9734-1F364F7C1300",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "82A2AF65-6E64-49EB-974B-534270CC4E62",
       "fontFamilyName": "R-Flex",
       "fontFileName": "R-FLEX-THIN.otf",
@@ -149,12 +909,42 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "85C0ED4B-F7C6-498A-A0E8-56452369FAFC",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Black-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Black-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "89DB2DA2-016D-4F54-AC4E-E14F1807F43A",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "8A92990C-C59D-421C-8512-3B0E7A2778A4",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-BlackItalic.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8B7BC05D-F4E7-484A-93EA-C856F56EF273",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Regular"
       ]
     },
     {
@@ -179,12 +969,82 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "8E3E1BA0-076B-4D01-99E0-ED6A698350EB",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8FD0F8B0-E734-43F9-A669-69545684A3EC",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45785.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "903C88AC-8F51-48C2-9465-EB97ED3183D2",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45782.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "91F32AA0-2ED7-43DF-9C78-909E335FE089",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Bold-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Bold-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "960B9033-B4C3-4372-9FBC-5141E38711E5",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Medium.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "978BD1E4-74CF-4396-A10D-5D93A6E0EEAF",
       "fontFamilyName": "R-Flex",
       "fontFileName": "R-FLEX-REGULAR.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "RFlexRegular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "98457220-0C2C-4865-8349-8409944CFE79",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "99BF681E-A722-4B13-A3A0-DFD03F911A49",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39514.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-XBlack"
       ]
     },
     {
@@ -199,12 +1059,72 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "9DA05A81-E6B7-4B52-A51B-79CE1625C663",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN Alternate",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-LightAlternate"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9F96AA92-2F35-420E-B23C-21E34204F4DC",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Regular.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Moderat-Trial-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A032F42C-69AC-4D13-B20E-0BB1A308B41E",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45784.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A41CFE44-9E6D-4096-B67B-A6886630B5E7",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45793.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "A5F9CCA1-4B3A-4223-9F47-AFA86A5B5F46",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Italic.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A725AB70-CEAE-4A1F-8B9D-7D236B5BA827",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN Alternate",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-BoldAlternate"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A8CC2C65-5D9C-475C-B94A-1E021451E0F7",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-MediumIt"
       ]
     },
     {
@@ -219,6 +1139,26 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "AC7EEEC4-871E-4E8C-9653-F6D57FD616DC",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45786.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AF685194-F1FD-4EA2-97C9-9AD032DF4A76",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39512.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "B1682B17-1E18-476F-ABB6-44B876FF26A1",
       "fontFamilyName": "R-Flex",
       "fontFileName": "R-FLEX-MEDIUM.otf",
@@ -229,12 +1169,142 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "B3CDE1B0-5AF1-4402-8F70-3C6C66976411",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Regular-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Regular-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "B4166F77-16EF-4DFC-926C-54BCBBBC2EC3",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-LightItalic.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B446E5F8-9EB7-4E43-AE70-BC1432F3EB98",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-BookItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B63365F1-C17B-4FD9-9A93-A2F44CF60E59",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B6CBAFE4-8F85-4A5E-8496-A890366EDE8B",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45792.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-UltraItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B75117BD-EC30-4B13-8323-EFC4B8E8326E",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B7E043B0-887D-4E2A-9EF9-0100CEB6BCA1",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39519.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B84943F0-1827-4C7E-8C87-E810B122312D",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Bold-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Bold-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BB201F39-C5D2-4AE5-B29C-054CF895B9A2",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Bold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BF03BEAA-9589-4C7E-8E2D-3923AFCF6A36",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN",
+      "options": 0,
+      "postscriptNames": [
+        "DIN-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C1E43860-2DE0-4E3B-A9C4-453BA5DF83DA",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39522.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-MediumIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C424BB09-5F46-4AFE-AF44-3439F5D9217C",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39510.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C74607ED-692F-46A0-BDEB-0866945323B6",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39515.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-XBlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C8107B3F-6B57-45E4-861E-CCCFA5960EFE",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Black-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Black-Italic"
       ]
     },
     {
@@ -255,6 +1325,26 @@
       "options": 0,
       "postscriptNames": [
         "RFlex-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CF529D19-F55C-489E-BF27-DC4B8BD09811",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39524.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CFEA330A-1799-402C-8FE6-580C9DD2EB9E",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39525.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-ThinItalic"
       ]
     },
     {
@@ -289,12 +1379,112 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "D3E6F231-D3C8-4839-9E7A-0720AD3CBC3A",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D3EAFBB1-EB78-4E0E-944B-34BC82855AE9",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D41B001E-A904-4A24-8A1A-9E5BCB88A083",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DA002CAC-4467-412A-9113-258A0B54E8AE",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-BookItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-BookItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DD1E4EC7-072B-4FF2-ABBD-8597FA7794BB",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Black.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DD1F61DC-B78C-4B96-B489-87687C09C4E1",
+      "fontFamilyName": "Proxima Nova",
+      "fontFileName": ".5474.otf",
+      "options": 2,
+      "postscriptNames": [
+        "ProximaNova-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DD38F031-FF32-4313-8CBA-303A95119AE9",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Mono-Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Mono-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "DD6E6AF4-C2EC-4EA9-BDCF-5873F104EEF8",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-ExtraBoldItalic.ttf",
       "options": 0,
       "postscriptNames": [
         "Rubik-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DEEAD4EA-3353-40DC-A5B8-CA035E152703",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "CircularStd-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E0EA354E-C0CB-4DEB-A4FD-BE02A840E5AA",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E1BEC0E7-451F-485E-B2E3-4E3922D4CF68",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Thin-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Thin-Italic"
       ]
     },
     {
@@ -315,6 +1505,196 @@
       "options": 0,
       "postscriptNames": [
         "Rubik-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E89C7166-74DA-4E3E-AB22-36334E902FEF",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39513.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EE5DA82D-7471-4279-AD3A-A61BB901AEAB",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45787.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-SemiboldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EF1041C8-14E3-4A76-A8B0-57687D6BE5BD",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-ExtraLight.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EFC30802-799C-4452-9BAB-8319ECE3B21E",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-SemiboldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-SemiboldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F076FAAC-7A4E-44B6-8CAA-D530A3DCD8E6",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Light.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F192ED5E-A32E-4965-9F4F-5A3DAD665641",
+      "fontFamilyName": "Aglet Mono",
+      "fontFileName": ".45789.otf",
+      "options": 0,
+      "postscriptNames": [
+        "AgletMono-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F1D517B5-DE37-45F0-AD43-D2854E259FBB",
+      "fontFamilyName": "DIN",
+      "fontFileName": "FF DIN",
+      "options": 2,
+      "postscriptNames": [
+        "DIN-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F246DDBA-8E14-45D4-8E65-FCEAC5F9C070",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Thin-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Thin-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F27F3798-87AE-44F1-9715-D50855BC9150",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39511.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F328E096-20E7-45EC-BDE8-8B1EC7940117",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F5370FD6-E842-4D13-9BE7-98F92CC47882",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Extended-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Extended-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F53EC19F-EB7E-4966-872C-ECF59576D454",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-Semibold.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-Semibold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F6974C5B-5454-478C-9F02-C5F0185EF04F",
+      "fontFamilyName": "Circular Std",
+      "fontFileName": "CircularStd-Book.otf",
+      "options": 2,
+      "postscriptNames": [
+        "CircularStd-Book"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F8C746AB-8B1A-4702-B2C8-376DE3C06BC5",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-SemiBoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-SemiboldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F8F503C4-FE78-4042-B554-B796D4836121",
+      "fontFamilyName": "Source Code Pro",
+      "fontFileName": "SourceCodePro-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceCodePro-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F9B9452A-46B0-424B-AF5E-61EFAB9F23D8",
+      "fontFamilyName": "Source Sans Pro",
+      "fontFileName": "SourceSansPro-BlackItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "SourceSansPro-BlackIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FE18EE06-A3CB-46F1-A06D-6794AA041D65",
+      "fontFamilyName": "Neue Haas Unica W1G",
+      "fontFileName": ".39527.otf",
+      "options": 0,
+      "postscriptNames": [
+        "NeueHaasUnicaW1G-UltLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FEB026FB-3513-428D-BAF2-276664CDFE41",
+      "fontFamilyName": "Gotham",
+      "fontFileName": "Gotham.bmap",
+      "options": 0,
+      "postscriptNames": [
+        "Gotham-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FFA2DDF3-DFED-45D1-8EE0-B6A10016BE0D",
+      "fontFamilyName": "Moderat Trial",
+      "fontFileName": "Moderat-Trial-Condensed-Medium-Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Moderat-Trial-Condensed-Medium-Italic"
       ]
     }
   ],
