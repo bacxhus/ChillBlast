@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CBECCA1-257F-4A84-BFBC-B686E1378A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 24,
+    "x": 766,
+    "y": 23
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3737CD1B-7A3A-4F28-AA03-C48A27BAF58C"
+    },
+    {
+      "class": "shapePath",
+      "id": "283E8FC7-0B90-4974-8BA0-AFD2C0170DCF"
+    },
+    {
+      "class": "shapePath",
+      "id": "AAE7D201-0C38-4F22-81D5-A7DF360E952E"
+    }
+  ],
+  "name": "Stockholm Icons / White / General / User",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "DBFFCA47-0F0F-4A6E-9F67-1C0E98996E03",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "B4A09C18-4DBA-49F1-8F50-29D6D49AC99D",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 24,
+          "x": 1003.333333333333,
+          "y": 53
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "AE57F028-D1BF-44E4-9840-0D17F4FA3798",
+        "symbolID": "9F71EDE9-5381-4CF6-98F5-485CBDD6F620"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "B4A09C18-4DBA-49F1-8F50-29D6D49AC99D",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 24,
+          "width": 24,
+          "x": 1003.333333333333,
+          "y": 53
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "AE57F028-D1BF-44E4-9840-0D17F4FA3798",
+        "symbolID": "9F71EDE9-5381-4CF6-98F5-485CBDD6F620"
+      }
+    }
+  }
+}

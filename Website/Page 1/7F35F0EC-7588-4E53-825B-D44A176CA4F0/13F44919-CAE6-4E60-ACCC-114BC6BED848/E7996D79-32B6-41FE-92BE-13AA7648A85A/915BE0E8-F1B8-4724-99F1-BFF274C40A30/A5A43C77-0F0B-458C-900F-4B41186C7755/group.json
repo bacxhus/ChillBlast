@@ -1,0 +1,192 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5A43C77-0F0B-458C-900F-4B41186C7755",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 16,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F1C62FD6-1BF2-44AC-9C30-85AC7E1DCB96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F6B33C3C-170F-4438-AF87-4C4215BB5533"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DB63868-04ED-4640-8983-EBB1F2494339"
+    },
+    {
+      "class": "shapePath",
+      "id": "6CEEF307-6D39-4D9C-B631-EFD284DEBA9B"
+    }
+  ],
+  "name": "Stockholm Icons / Black / Home / Alarm-clock",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2A08D5DD-354A-4AA9-8423-E282512E5899",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7764705882352941,
+          "green": 0.9333333333333333,
+          "red": 0.2431372549019608
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "2FB42A36-1797-4146-8B50-6A7D21BD58D5",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": true,
+          "height": 40,
+          "width": 40,
+          "x": 18,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "39E7F314-A5AB-4616-AA5D-3F38C21BE519",
+        "symbolID": "AE650A16-F23C-4F79-9EC8-4EB7699781DF"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "2FB42A36-1797-4146-8B50-6A7D21BD58D5",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": true,
+          "height": 40,
+          "width": 40,
+          "x": 18,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "39E7F314-A5AB-4616-AA5D-3F38C21BE519",
+        "symbolID": "AE650A16-F23C-4F79-9EC8-4EB7699781DF"
+      }
+    }
+  }
+}

@@ -32,7 +32,7 @@
       "do_objectID": "042338F7-38C8-4BBD-81D4-D1E4A2766758",
       "fontFamilyName": "Neue Haas Unica W1G",
       "fontFileName": ".39521.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "NeueHaasUnicaW1G-Medium"
       ]
@@ -447,7 +447,7 @@
       "do_objectID": "462C3E61-2243-4260-B8E2-01010EE23E99",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham.bmap",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Gotham-Book"
       ]
@@ -477,7 +477,7 @@
       "do_objectID": "4917916F-B2E4-4F45-B665-FF24D4D196A3",
       "fontFamilyName": "Neue Haas Unica W1G",
       "fontFileName": ".39523.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "NeueHaasUnicaW1G-Regular"
       ]
@@ -587,7 +587,7 @@
       "do_objectID": "57722CF8-67F9-4B48-A988-BB30C27321B4",
       "fontFamilyName": "DIN",
       "fontFileName": "FF DIN",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "DIN-Medium"
       ]
@@ -792,7 +792,7 @@
       "do_objectID": "6FCD29B9-4283-453D-AB43-281B2AD31231",
       "fontFamilyName": "Source Sans Pro",
       "fontFileName": "SourceSansPro-Regular.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "SourceSansPro-Regular"
       ]
@@ -1022,7 +1022,7 @@
       "do_objectID": "978BD1E4-74CF-4396-A10D-5D93A6E0EEAF",
       "fontFamilyName": "R-Flex",
       "fontFileName": "R-FLEX-REGULAR.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "RFlexRegular"
       ]
@@ -1072,7 +1072,7 @@
       "do_objectID": "9F96AA92-2F35-420E-B23C-21E34204F4DC",
       "fontFamilyName": "Moderat Trial",
       "fontFileName": "Moderat-Trial-Regular.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Moderat-Trial-Regular"
       ]
@@ -1432,7 +1432,7 @@
       "do_objectID": "DD1F61DC-B78C-4B96-B489-87687C09C4E1",
       "fontFamilyName": "Proxima Nova",
       "fontFileName": ".5474.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "ProximaNova-Light"
       ]
@@ -1572,7 +1572,7 @@
       "do_objectID": "F1D517B5-DE37-45F0-AD43-D2854E259FBB",
       "fontFamilyName": "DIN",
       "fontFileName": "FF DIN",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "DIN-Regular"
       ]
@@ -1632,7 +1632,7 @@
       "do_objectID": "F6974C5B-5454-478C-9F02-C5F0185EF04F",
       "fontFamilyName": "Circular Std",
       "fontFileName": "CircularStd-Book.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "CircularStd-Book"
       ]
@@ -1701,11 +1701,233 @@
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "C47A07B5-94FC-45E7-AD9F-730090A08EF7",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "CA803D1B-8A7D-4F5B-ACA5-0D516ECA06C3",
+        "name": "Opacity fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 0.3
+          },
+          "do_objectID": "9C0B3A05-67E1-4BB5-A4A3-7078C9AEFD0F",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "F56327DD-E713-47B7-B52A-0AEAC5B5473D",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "D2675EA3-7F7C-4A71-9676-0152796FF142",
+      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "5A741E7F-2D98-4DB7-9597-1D459BDC3E43",
+        "name": "Fill",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 8.181818181818182,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "9ACF47B9-76E9-4926-AEC5-82E16817DDFC",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "228E6728-7C64-497F-88F5-ECFE5D715F0D",
+      "sourceLibraryName": "Stockholm Icons",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
       "do_objectID": "D0C7434C-3B7C-4C7C-B87A-A2A0C8D19CEE",
       "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "DEDC5305-C5C6-4345-BCEF-EFF389D048DD",
+        "do_objectID": "9D52C979-ACB0-4DF6-BCCF-426AD6C0FF92",
         "name": "Fill",
         "value": {
           "_class": "style",
@@ -1816,7 +2038,7 @@
       "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "AF02C466-0337-464D-B46C-DBB3FEBF5AF0",
+        "do_objectID": "EA200B7C-815B-4087-978C-E2DC711107D7",
         "name": "Opacity fill",
         "value": {
           "_class": "style",
@@ -1918,228 +2140,6 @@
         }
       },
       "remoteStyleID": "BC0123C1-6C4E-4E54-AEBF-C6EE5AA5A470",
-      "sourceLibraryName": "Stockholm Icons",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "D2675EA3-7F7C-4A71-9676-0152796FF142",
-      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "60613ADF-CC8F-4D62-8B96-D016012660EE",
-        "name": "Fill",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 8.181818181818182,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 1
-          },
-          "do_objectID": "9ACF47B9-76E9-4926-AEC5-82E16817DDFC",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "228E6728-7C64-497F-88F5-ECFE5D715F0D",
-      "sourceLibraryName": "Stockholm Icons",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignLayerStyle",
-      "do_objectID": "C47A07B5-94FC-45E7-AD9F-730090A08EF7",
-      "libraryID": "68B64078-DD06-4BF5-9152-3A081E7AB0BF",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
-        "do_objectID": "CA803D1B-8A7D-4F5B-ACA5-0D516ECA06C3",
-        "name": "Opacity fill",
-        "value": {
-          "_class": "style",
-          "blur": {
-            "_class": "blur",
-            "center": "{0.5, 0.5}",
-            "isEnabled": false,
-            "motionAngle": 0,
-            "radius": 8.181818181818182,
-            "saturation": 1,
-            "type": 0
-          },
-          "borderOptions": {
-            "_class": "borderOptions",
-            "dashPattern": [
-            ],
-            "isEnabled": true,
-            "lineCapStyle": 0,
-            "lineJoinStyle": 0
-          },
-          "borders": [
-          ],
-          "colorControls": {
-            "_class": "colorControls",
-            "brightness": 0,
-            "contrast": 1,
-            "hue": 0,
-            "isEnabled": false,
-            "saturation": 1
-          },
-          "contextSettings": {
-            "_class": "graphicsContextSettings",
-            "blendMode": 0,
-            "opacity": 0.3
-          },
-          "do_objectID": "9C0B3A05-67E1-4BB5-A4A3-7078C9AEFD0F",
-          "endMarkerType": 0,
-          "fills": [
-            {
-              "_class": "fill",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "contextSettings": {
-                "_class": "graphicsContextSettings",
-                "blendMode": 0,
-                "opacity": 1
-              },
-              "fillType": 0,
-              "gradient": {
-                "_class": "gradient",
-                "elipseLength": 0,
-                "from": "{0.5, 0}",
-                "gradientType": 0,
-                "stops": [
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 1,
-                      "green": 1,
-                      "red": 1
-                    },
-                    "position": 0
-                  },
-                  {
-                    "_class": "gradientStop",
-                    "color": {
-                      "_class": "color",
-                      "alpha": 1,
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    },
-                    "position": 1
-                  }
-                ],
-                "to": "{0.5, 1}"
-              },
-              "isEnabled": true,
-              "noiseIndex": 0,
-              "noiseIntensity": 0,
-              "patternFillType": 1,
-              "patternTileScale": 1
-            }
-          ],
-          "innerShadows": [
-          ],
-          "miterLimit": 10,
-          "shadows": [
-          ],
-          "startMarkerType": 0,
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "F56327DD-E713-47B7-B52A-0AEAC5B5473D",
       "sourceLibraryName": "Stockholm Icons",
       "symbolPrivate": false
     }
