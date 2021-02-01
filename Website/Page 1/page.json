@@ -41,11 +41,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "0F2DAC77-9571-4614-85CA-0CC2EF4242B6"
-    },
-    {
-      "class": "artboard",
-      "id": "6B474EB1-5D93-4959-8430-84139B29734D"
+      "id": "1FA856B2-9D5E-4C9F-9177-46C30F5F3F8B"
     },
     {
       "class": "artboard",
@@ -53,23 +49,11 @@
     },
     {
       "class": "artboard",
+      "id": "6B474EB1-5D93-4959-8430-84139B29734D"
+    },
+    {
+      "class": "artboard",
       "id": "A35E0C91-BE3E-418E-8B4D-063AD0986E69"
-    },
-    {
-      "class": "artboard",
-      "id": "1FA856B2-9D5E-4C9F-9177-46C30F5F3F8B"
-    },
-    {
-      "class": "artboard",
-      "id": "95BEF112-86C1-408C-B1D3-6DEFA272B832"
-    },
-    {
-      "class": "artboard",
-      "id": "497B1DD8-33C1-4A04-AE2C-22EDB52126A0"
-    },
-    {
-      "class": "artboard",
-      "id": "E835FDBE-12AA-4059-ACAB-4D507ED453D6"
     },
     {
       "class": "artboard",
@@ -77,7 +61,11 @@
     },
     {
       "class": "artboard",
-      "id": "51813D8F-BE3F-4328-A0BD-14113B716343"
+      "id": "95BEF112-86C1-408C-B1D3-6DEFA272B832"
+    },
+    {
+      "class": "artboard",
+      "id": "95D70541-D945-4FDA-924A-149113211C28"
     }
   ],
   "name": "Page 1",

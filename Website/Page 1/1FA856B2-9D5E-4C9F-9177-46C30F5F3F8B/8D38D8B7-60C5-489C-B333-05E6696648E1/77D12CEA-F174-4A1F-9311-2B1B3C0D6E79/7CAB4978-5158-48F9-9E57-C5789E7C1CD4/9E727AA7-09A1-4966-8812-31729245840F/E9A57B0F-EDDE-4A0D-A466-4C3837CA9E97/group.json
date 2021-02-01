@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -82,7 +82,15 @@
     },
     {
       "class": "oval",
+      "id": "FDDA39A3-27B5-41F4-AB3A-3144E18C0D97"
+    },
+    {
+      "class": "oval",
       "id": "E7A90914-824A-4A3D-A1BF-C5455658C74F"
+    },
+    {
+      "class": "oval",
+      "id": "B7AD9666-1618-4763-B282-054E4BD11145"
     },
     {
       "class": "oval",
@@ -90,7 +98,19 @@
     },
     {
       "class": "oval",
+      "id": "63F5E4DB-D4B1-49C1-BECA-697917DBD49E"
+    },
+    {
+      "class": "oval",
       "id": "D521961B-B412-4309-8951-749C0CF07ED4"
+    },
+    {
+      "class": "oval",
+      "id": "342091D9-B286-4B72-8486-23AC40574886"
+    },
+    {
+      "class": "oval",
+      "id": "07FF854E-0CC0-4845-9652-234FF2134F49"
     },
     {
       "class": "oval",
@@ -98,7 +118,15 @@
     },
     {
       "class": "oval",
+      "id": "FD337679-5F24-4F92-858F-C44D2EE19B4C"
+    },
+    {
+      "class": "oval",
       "id": "39446A05-6E93-469E-961B-60BE0B7BD37D"
+    },
+    {
+      "class": "oval",
+      "id": "8AF65BF1-CE1B-43BD-99DB-1250EFB2DF35"
     }
   ],
   "name": "cpu-2",

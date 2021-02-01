@@ -19,7 +19,7 @@
     "constrainProportions": false,
     "height": 243,
     "width": 955,
-    "x": -24,
+    "x": 0,
     "y": 0
   },
   "hasClippingMask": false,
@@ -113,7 +113,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.3
+      "opacity": 0.4
     },
     "do_objectID": "701BF376-482E-4B70-885A-105A8E74011A",
     "endMarkerType": 0,
@@ -177,10 +177,10 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 7,
+        "blurRadius": 10,
         "color": {
           "_class": "color",
-          "alpha": 0.7,
+          "alpha": 1,
           "blue": 0,
           "green": 0,
           "red": 0

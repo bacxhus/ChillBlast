@@ -220,20 +220,20 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.973404594089674,
+          "green": 0.3929643931736137,
+          "red": 0.3824109349751396
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.019353195823785255, 0.52059615670373627}",
+          "from": "{0.5, 0}",
           "gradientType": 0,
           "stops": [
             {
@@ -241,9 +241,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.9686274509803922,
-                "green": 0.1686274509803922,
-                "red": 0.1098039215686274
+                "blue": 1,
+                "green": 1,
+                "red": 1
               },
               "position": 0
             },
@@ -252,14 +252,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3490196078431372,
-                "green": 0.08627450980392157,
-                "red": 0.04705882352941176
+                "blue": 0,
+                "green": 0,
+                "red": 0
               },
               "position": 1
             }
           ],
-          "to": "{1.1732874968169087, 0.47034769640002799}"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

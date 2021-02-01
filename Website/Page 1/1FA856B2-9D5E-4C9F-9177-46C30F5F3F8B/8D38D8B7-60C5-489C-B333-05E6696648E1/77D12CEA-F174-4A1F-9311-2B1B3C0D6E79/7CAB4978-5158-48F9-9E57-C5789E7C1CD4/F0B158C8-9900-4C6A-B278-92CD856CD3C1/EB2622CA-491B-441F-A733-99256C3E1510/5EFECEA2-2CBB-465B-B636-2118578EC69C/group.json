@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
+    "height": 55,
     "width": 76,
     "x": 0,
     "y": 0
@@ -63,10 +63,6 @@
     {
       "class": "shapePath",
       "id": "485DCD09-4A7F-4E97-B903-52CE06A77390"
-    },
-    {
-      "class": "shapePath",
-      "id": "BFC416DB-FCEB-4E01-B9AA-AAD298223A9F"
     }
   ],
   "name": "r-1",

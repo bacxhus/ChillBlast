@@ -85,7 +85,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 7.997333835405788,
+      "radius": 7.969884999999999,
       "saturation": 1,
       "type": 0
     },
@@ -120,9 +120,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 0.2509803921568627,
-          "red": 0.07450980392156863
+          "blue": 0.5204251054404438,
+          "green": 0.1185360402363946,
+          "red": 0.2743705757236789
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -133,7 +133,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.5, 0}",
+          "from": "{0.38271604938292936, 0.063895131086142545}",
           "gradientType": 0,
           "stops": [
             {
@@ -141,9 +141,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
+                "blue": 0.7647058823529411,
+                "green": 0.1882352941176471,
+                "red": 0.4117647058823529
               },
               "position": 0
             },
@@ -152,14 +152,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
+                "blue": 0.4572178937386775,
+                "green": 0.09560911429353973,
+                "red": 0.2358247634661441
               },
               "position": 1
             }
           ],
-          "to": "{0.5, 1}"
+          "to": "{0.62345679012359145, 0.96367041198501902}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 85,
+    "height": 110,
     "width": 76,
     "x": 0,
     "y": 0
@@ -41,6 +41,18 @@
       "id": "405F2B7B-8C6D-4559-8191-F10CCDDF9817"
     },
     {
+      "class": "rectangle",
+      "id": "845532FF-C6CB-45DA-A241-DAD2253CBB22"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C548B2C-81C1-4880-BC80-E49A8A26A62C"
+    },
+    {
+      "class": "shapePath",
+      "id": "285A8AD8-4505-4128-A36B-19D8F73585AA"
+    },
+    {
       "class": "oval",
       "id": "CEB4B426-A518-4FCB-B9DF-98167342099C"
     },
@@ -55,18 +67,6 @@
     {
       "class": "oval",
       "id": "0CF85498-64B3-4A92-B1CA-1A15DD1B1E81"
-    },
-    {
-      "class": "shapePath",
-      "id": "0C548B2C-81C1-4880-BC80-E49A8A26A62C"
-    },
-    {
-      "class": "shapePath",
-      "id": "285A8AD8-4505-4128-A36B-19D8F73585AA"
-    },
-    {
-      "class": "shapePath",
-      "id": "0F58AC89-0FC1-4D3E-B804-18789829A991"
     }
   ],
   "name": "r-1",

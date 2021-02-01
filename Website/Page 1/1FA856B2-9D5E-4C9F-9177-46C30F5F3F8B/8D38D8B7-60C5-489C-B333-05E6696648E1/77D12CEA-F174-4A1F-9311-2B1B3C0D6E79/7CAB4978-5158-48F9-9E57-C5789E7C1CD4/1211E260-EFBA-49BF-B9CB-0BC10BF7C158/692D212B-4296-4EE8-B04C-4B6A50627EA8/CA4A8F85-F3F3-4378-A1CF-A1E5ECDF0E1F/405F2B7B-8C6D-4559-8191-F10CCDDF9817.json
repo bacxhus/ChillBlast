@@ -18,8 +18,8 @@
     "constrainProportions": false,
     "height": 44.32866754802732,
     "width": 74.40734795558467,
-    "x": 0.7409112054989494,
-    "y": 30.33329872098628
+    "x": 0.7409112054992875,
+    "y": 55.33329872098602
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -180,9 +180,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8745098039215686,
-          "green": 0.9058823529411765,
-          "red": 0.2627450980392157
+          "blue": 0.9300807767367374,
+          "green": 1,
+          "red": 0.4282452839176829,
+          "swatchID": "EDBD8953-3A09-4E87-BEB8-7031413AF575"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

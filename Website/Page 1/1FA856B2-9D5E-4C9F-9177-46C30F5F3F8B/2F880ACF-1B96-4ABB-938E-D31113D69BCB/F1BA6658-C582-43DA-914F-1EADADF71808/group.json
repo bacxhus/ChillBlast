@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 254,
-    "width": 254,
-    "x": 686,
+    "height": 224,
+    "width": 259,
+    "x": 681,
     "y": 0
   },
   "groupLayout": {
@@ -32,10 +32,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "oval",
-      "id": "8AF4A008-8C77-4BF8-A3FC-72952492C7B4"
-    },
     {
       "class": "group",
       "id": "B05885CE-8371-4CD8-8B6F-D070942FEEC3"
@@ -54,7 +50,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 8.615384615384617,
       "saturation": 1,
       "type": 0
     },
@@ -91,20 +87,20 @@
     "shadows": [
       {
         "_class": "shadow",
-        "blurRadius": 63,
+        "blurRadius": 44,
         "color": {
           "_class": "color",
           "alpha": 0.2,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.3447469075520833,
+          "green": 0.0681536980276185,
+          "red": 0.08164604971173874
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 2,
         "spread": 0
