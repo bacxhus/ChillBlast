@@ -33,7 +33,7 @@
     "constrainProportions": false,
     "height": 3596,
     "width": 1440,
-    "x": 18230,
+    "x": 14690,
     "y": 4435
   },
   "groupLayout": {
@@ -58,11 +58,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "12022C4E-2C53-4B06-9ADA-AD0488E8A0AC"
+      "class": "rectangle",
+      "id": "F9D318D7-8D6F-4C6E-A258-CF727AAA9709"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0622D841-E6E0-467A-8D0E-72F8FB709ACD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C3859A0-A9C4-4D07-9211-AA1CD712D543"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F32D9AD9-DD9F-4150-B5FE-45FC39F89318"
     },
     {
       "class": "group",
@@ -100,8 +112,8 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "Desktop HD / Light Mode",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

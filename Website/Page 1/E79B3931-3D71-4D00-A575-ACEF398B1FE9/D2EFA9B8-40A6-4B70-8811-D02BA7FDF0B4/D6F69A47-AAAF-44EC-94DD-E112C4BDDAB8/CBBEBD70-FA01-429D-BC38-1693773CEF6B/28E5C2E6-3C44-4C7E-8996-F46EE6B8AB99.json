@@ -1,0 +1,157 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "28E5C2E6-3C44-4C7E-8996-F46EE6B8AB99",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 17.23076923076923,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 258.4615384615385,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": true,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mask",
+  "nameIsFixed": false,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{4.3368086899420177e-19, 0}",
+      "curveMode": 1,
+      "curveTo": "{4.3368086899420177e-19, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{4.3368086899420177e-19, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{0.70542583116165281, 0.087639464121444383}",
+      "curveMode": 1,
+      "curveTo": "{0.70542583116165292, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.70542583116165292, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{0.99999999999999967, 0.57993057601807063}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999967, 0.24659724268473726}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999999999999967, 0.33423670680618162}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{0.73526977799456195, 1.0000000000000002}",
+      "curveMode": 1,
+      "curveTo": "{0.99999999999999989, 0.75430613078811137}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1.0000000000000002}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{0.25188105999426569, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.58521439332759906, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.32048417132216089, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 17.23076923076923,
+      "curveFrom": "{0, 0.63090128755364772}",
+      "curveMode": 1,
+      "curveTo": "{0.068603111327895205, 0.63090128755364772}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.63090128755364772}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.615384615384617,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EB35F9D6-C329-4529-82DA-BEF46FEC84F4",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "datasupplier.key": "unsplash_dataprovider_SearchPhoto",
+    "unsplash": {
+      "unsplash.photo.id": "\"4BSULrfDc7w\"",
+      "unsplash.search.term": "\"computer\""
+    }
+  }
+}

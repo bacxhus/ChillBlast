@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Moderat-Trial-Light",
+              "name": "Moderat-Trial-Regular",
               "size": 18
             }
           },
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 66,
-    "x": 0,
+    "width": 67,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {64, 39}}",
+  "glyphBounds": "{{1, 5}, {66, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,7 +128,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Moderat-Trial-Light",
+            "name": "Moderat-Trial-Regular",
             "size": 18
           }
         },

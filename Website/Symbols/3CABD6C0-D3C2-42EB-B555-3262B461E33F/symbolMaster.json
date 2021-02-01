@@ -60,8 +60,8 @@
       "id": "86D1170B-8F7C-4465-8C1E-FA1A3F2473CE"
     }
   ],
-  "name": "Select",
-  "nameIsFixed": false,
+  "name": "Select / Light Mode",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
