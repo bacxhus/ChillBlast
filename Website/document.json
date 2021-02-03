@@ -1142,7 +1142,7 @@
       "do_objectID": "A5DAD3E6-BC4D-4CEC-A4FF-01A12C13CA44",
       "fontFamilyName": "Eina04-RegularItalic",
       "fontFileName": "Eina04-RegularItalic.ttf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Eina04-RegularItalic"
       ]
@@ -1222,7 +1222,7 @@
       "do_objectID": "B3138FDF-5474-44E7-BF65-23FB0DEE89B1",
       "fontFamilyName": "Eina04-Regular",
       "fontFileName": "Eina04-Regular.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Eina04-Regular"
       ]
@@ -1345,6 +1345,16 @@
       "options": 0,
       "postscriptNames": [
         "NeueHaasUnicaW1G-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C69FEBFC-05D6-4357-8898-7F361DF0C71B",
+      "fontFamilyName": "Eina04-Bold",
+      "fontFileName": "Eina04-Bold.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Eina04-Bold"
       ]
     },
     {
